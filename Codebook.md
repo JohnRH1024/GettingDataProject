@@ -36,28 +36,28 @@ These signals were used to estimate variables of the feature vector for
 each pattern: '-XYZ' is used to denote 3-axial signals in the X, Y and Z
 directions.
 
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+tBodyAcc-XYZ  
+tGravityAcc-XYZ  
+tBodyAccJerk-XYZ  
+tBodyGyro-XYZ  
+tBodyGyroJerk-XYZ  
+tBodyAccMag  
+tGravityAccMag  
+tBodyAccJerkMag  
+tBodyGyroMag  
+tBodyGyroJerkMag  
+fBodyAcc-XYZ  
+fBodyAccJerk-XYZ  
+fBodyGyro-XYZ  
+fBodyAccMag  
+fBodyAccJerkMag  
+fBodyGyroMag  
+fBodyGyroJerkMag  
 
 The set of variables that were estimated from these signals are: 
 
-mean(): Mean value
-std(): Standard deviation
+mean(): Mean value  
+std(): Standard deviation  
 
 # New material:
 
@@ -97,8 +97,8 @@ mean_tBodyGyro-mean()-Z
 mean_tBodyGyro-std()-X  
 mean_tBodyGyro-std()-Y  
 mean_tBodyGyro-std()-Z  
-mean_tBodyGyroJerk-mean(  )-X
-mean_tBodyGyroJerk-mean()-  Y
+mean_tBodyGyroJerk-mean()-X  
+mean_tBodyGyroJerk-mean()-Y  
 mean_tBodyGyroJerk-mean()-Z  
 mean_tBodyGyroJerk-std()-X  
 mean_tBodyGyroJerk-std()-Y  
